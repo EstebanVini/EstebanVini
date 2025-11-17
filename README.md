@@ -1,7 +1,3 @@
-# 💫 About Me:
-🚀 I’m currently working on<br><br>Cloud architectures with Kubernetes, Terraform and fully automated CI/CD. Also building custom Odoo modules and running microservices with an SRE mindset.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br><br>Scalable cloud platforms, DevSecOps tooling, and automation-heavy projects.<br><br>🤝 I’m looking for help with<br><br>New ideas to improve pipelines, shift-left security, and shorten MTTR without losing my sanity.<br><br>🌱 I’m currently learning<br><br>Advanced observability, FinOps practices, and smarter IaC.<br><br>💬 Ask me about<br><br>Kubernetes, CI/CD, DevSecOps, Odoo, Python, microservices, and cloud infra.<br><br>⚡ Fun fact<br><br>I’ve automated so many things that my scripts are starting to fear for their jobs.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Esteban Viniegra](https://www.linkedin.com/in/esteban-viniegra-21126b257/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:esteban@eviniegra.software) <br>esteban@eviniegra.software<br>
 
