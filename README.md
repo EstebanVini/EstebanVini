@@ -1,22 +1,404 @@
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Esteban Viniegra](https://www.linkedin.com/in/esteban-viniegra-21126b257/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:esteban@eviniegra.software)<br>esteban@eviniegra.software<br>
+<div align="center">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=EstebanVini&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanVini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=Esteban%20Viniegra&fontColor=EDE9FE&fontSize=54&fontAlignY=36&animation=fadeIn&desc=Senior%20Full%20Stack%20Software%20Engineer&descSize=18&descAlignY=57" width="100%"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EstebanVini&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&height=60&lines=Senior+Full+Stack+Software+Engineer;Backend+Systems+%26+Microservices+Specialist;Cloud+%7C+DevSecOps+%7C+Kubernetes;Reliable%2C+Tested%2C+Well-Documented+Software" alt="Typing SVG" />
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EstebanVini&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://img.shields.io/badge/Postgraduate-Engineering%20%26%20Project%20Management-6D28D9?style=flat-square&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/B.S.-Data%20Intelligence%20%26%20Cybersecurity-4F46E5?style=flat-square&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Universidad-Panamericana-4338CA?style=flat-square&logo=bookstack&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Mexico%20City-Mexico-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://eviniegra.software">
+  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/estebanviniegra-21126b257">
+  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:esteban@eviniegra.software">
+  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/EstebanVini">
+  <img src="https://img.shields.io/badge/GitHub-4338CA?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=EstebanVini&label=Profile%20Views&color=8B5CF6&style=flat-square" />
+<img src="https://img.shields.io/github/followers/EstebanVini?label=Followers&style=flat-square&color=6D28D9&logo=github" />
+<img src="https://img.shields.io/github/stars/EstebanVini?label=Stars&style=flat-square&color=4F46E5&logo=github" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EstebanVini&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+Senior Software Engineer with **4+ years** designing, migrating, and verifying backend systems across **Python, JavaScript/Node.js, and Java**. I build reliable services in large, multi-module codebases — from legacy runtime migrations (Node.js 11 → 24, Java 8 → 21) to **PCI-aligned payment microservices** — with a strong emphasis on correctness, edge-case analysis, automated testing, and clear written documentation.
+
+- Backend & distributed systems engineer with a **product-engineering mindset** — I care about the outcome, not just the endpoint.
+- **Full-stack** delivery across FastAPI, Spring Boot, Node.js, React, and Odoo ERP.
+- **AI / ML** foundation from a Data Intelligence degree — model building, evaluation, and high-quality AI training-data work.
+- Cloud-native operator: **Kubernetes, Terraform, CI/CD, DevSecOps**, and end-to-end observability.
+- Independent consultant as **Eviniegra Software** — custom development and enterprise Odoo implementations.
+
+> **Open To** · Remote Senior / Staff Backend & Full-Stack roles · AI/ML Engineering & Training-Data contracts · Cloud & Platform Engineering · Odoo / ERP consulting
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,bash,mysql&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,figma&theme=dark" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,graphql,postgres,mongodb,redis&theme=dark" />
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,githubactions,gitlab,git,linux,postman,grafana&theme=dark" />
+
+</div>
+
+---
+
+## AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+| :--- | :---: | :--- |
+| **Machine Learning Fundamentals** | ![Proficient](https://img.shields.io/badge/Proficient-6D28D9?style=flat-square) | Random Forest, Logistic Regression, model evaluation & selection, scikit-learn |
+| **Data Intelligence & EDA** | ![Advanced](https://img.shields.io/badge/Advanced-4F46E5?style=flat-square) | Feature engineering, exploratory analysis, Streamlit dashboards, notebooks |
+| **AI Training Data** | ![Experienced](https://img.shields.io/badge/Experienced-7C3AED?style=flat-square) | Producing high-quality training & evaluation data for LLMs; edge-case reasoning |
+| **LLM Application Development** | ![Proficient](https://img.shields.io/badge/Proficient-6D28D9?style=flat-square) | Prompt engineering, tool/skill design, Anthropic API integration |
+| **MLOps & Serving** | ![Familiar](https://img.shields.io/badge/Familiar-4338CA?style=flat-square) | Containerized model serving, FastAPI inference endpoints, CI/CD for ML |
+
+</div>
+
+---
+
+## Featured Projects
+
+<details>
+<summary><b>&nbsp;Vehicle MX API — REPUVE & Traffic-Fine Verification Service</b></summary>
+
+<br/>
+
+Proprietary REST API that verifies Mexican vehicle records (REPUVE registry checks and outstanding traffic fines), consumed by internal tooling and a public listing platform.
+
+| | |
+| :--- | :--- |
+| **Stack** | Python · FastAPI · PostgreSQL · Docker |
+| **Scale** | Multi-source aggregation with normalized vehicle records |
+| **Performance** | Low-latency lookups with response caching and pooling |
+| **Security** | Token-authenticated endpoints, input validation, rate limiting |
+| **Impact** | Core proprietary asset powering dealership and listing products |
+| **Repository** | [vehicle-mx-api](https://github.com/EstebanVini) |
+
+Contract-first OpenAPI design with resilient outbound calls (retries, timeouts, circuit breakers) against external registries, packaged for reuse across products.
+
+</details>
+
+<details>
+<summary><b>&nbsp;Dealer Vehicle Listing — Odoo 17 Dealership Management Module</b></summary>
+
+<br/>
+
+Comprehensive used-car dealership management system delivered as an installable Odoo 17 Community module, integrated with the Vehicle MX API and a public listing site.
+
+| | |
+| :--- | :--- |
+| **Stack** | Odoo 17 · Python · PostgreSQL · XML/QWeb |
+| **Scale** | 8 models · 9 business flows · 40+ acceptance criteria |
+| **Performance** | Indexed queries and computed fields for large inventories |
+| **Security** | Record rules, access groups, and API credential isolation |
+| **Impact** | End-to-end inventory, listing, and sales workflow for dealerships |
+| **Repository** | [dealer_vehicle_listing](https://github.com/EstebanVini) |
+
+Built to strict OCA standards with formal functional, flow, and database-schema specifications, including a full Mermaid ER model.
+
+</details>
+
+<details>
+<summary><b>&nbsp;Catan Assistant — Real-Time Board-Game Bookkeeping Platform</b></summary>
+
+<br/>
+
+Web app that digitizes bookkeeping for in-person Catan sessions, with live sync, an admin/banco role, and 5–6 player extension support.
+
+| | |
+| :--- | :--- |
+| **Stack** | Node.js · Express · Socket.IO · React · Vite · MongoDB · Zustand |
+| **Scale** | Real-time multiplayer rooms with 5–6 player support |
+| **Performance** | WebSocket state sync with optimistic UI updates |
+| **Security** | Optional JWT-authenticated accounts and role-based actions |
+| **Impact** | Removes manual tracking friction from tabletop play |
+| **Repository** | [catan-assistant](https://github.com/EstebanVini) |
+
+Event-driven architecture keeping every player's board state consistent in real time, with a dedicated banker role for controlled transactions.
+
+</details>
+
+<details>
+<summary><b>&nbsp;Aurea Vita — Luxury Hotel Web Platform</b></summary>
+
+<br/>
+
+Marketing and booking-inquiry platform for a luxury hotel in Acapulco Diamante, built with a multi-agent development workflow.
+
+| | |
+| :--- | :--- |
+| **Stack** | React · Vite · Tailwind CSS · Framer Motion |
+| **Scale** | Full marketing site with structured booking-inquiry flow |
+| **Performance** | Optimized assets and animation for fast, smooth rendering |
+| **Security** | Validated inquiry forms and hardened submission handling |
+| **Impact** | Delivered client-facing revisions across navigation, branding, and copy |
+| **Repository** | [aurea-vita](https://github.com/EstebanVini) |
+
+Design-system-driven front end with motion-led UX, delivered against a real client contract with iterative revision rounds.
+
+</details>
+
+---
+
+## Experience
+
+### Senior Software Engineer · Softtek
+`May 2026 – Present` · Mexico City, Mexico
+
+Leading runtime modernization and microservice development across large legacy enterprise codebases.
+
+- Lead migration of internal services from **Node.js v11 → v24** and **Java 8 → Java 21 (Spring Boot)**, mapping dependencies, breaking changes, and behavioral edge cases before rollout.
+- Verify correctness through regression suites, **contract testing**, and side-by-side behavioral comparison, preventing production incidents during cutover.
+- Design and develop microservices exposing well-documented **REST APIs** consumed by multiple teams.
+- Align dev, QA, and operations for successful deployments with structured runbooks and migration documentation.
+
+<img src="https://img.shields.io/badge/Node.js-6D28D9?style=flat-square" /> <img src="https://img.shields.io/badge/Java%2021-6D28D9?style=flat-square" /> <img src="https://img.shields.io/badge/Spring%20Boot-6D28D9?style=flat-square" /> <img src="https://img.shields.io/badge/Contract%20Testing-6D28D9?style=flat-square" /> <img src="https://img.shields.io/badge/Legacy%20Migration-6D28D9?style=flat-square" />
+
+### Senior Software Engineer · Pridecta
+`Jan 2025 – May 2026` · Madrid, Spain (Hybrid)
+
+Cloud architecture, CI/CD, and multi-module ERP development with an SRE approach.
+
+- Designed cloud architectures on managed **Kubernetes (EKS/GKE/AKS)** with Terraform and Helm for reproducibility, security, and high availability.
+- Orchestrated **CI/CD pipelines** (GitHub Actions, GitLab CI, Argo CD) with automated tests, quality gates, and embedded security controls.
+- Led and mentored teams: roadmaps, agile ceremonies, and code review for correctness and maintainability.
+- Developed custom **Odoo modules** (CRM, Sales, Invoicing, Inventory) integrating third-party APIs.
+- Implemented end-to-end **observability** (metrics, logs, traces) and incident practices that reduced MTTR.
+- Operated services with SLI/SLO definition, autoscaling, and **blue/green and canary** deployments.
+
+<img src="https://img.shields.io/badge/Kubernetes-4F46E5?style=flat-square" /> <img src="https://img.shields.io/badge/Terraform-4F46E5?style=flat-square" /> <img src="https://img.shields.io/badge/CI%2FCD-4F46E5?style=flat-square" /> <img src="https://img.shields.io/badge/Odoo-4F46E5?style=flat-square" /> <img src="https://img.shields.io/badge/SRE-4F46E5?style=flat-square" />
+
+### DevSecOps Engineer · Grupo Smartekh
+`Apr 2023 – Dec 2024` · Mexico City, Mexico
+
+Security-embedded delivery pipelines and supply-chain risk analysis.
+
+- Built CI/CD pipelines with **SAST, DAST, secrets, and IaC scanning**, enforcing policy per branch and environment.
+- Analyzed third-party codebases and dependency trees (**SBOM**) to identify vulnerabilities and edge-case risks, producing executive reports.
+- Trained development teams in secure coding and threat modeling, shortening remediation cycles.
+- Defined security metrics (vulnerability MTTR, scan coverage, policy-blocked builds).
+
+<img src="https://img.shields.io/badge/SAST%2FDAST-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/SBOM-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Threat%20Modeling-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/DevSecOps-7C3AED?style=flat-square" />
+
+### Cybersecurity Automation Engineer · Grupo Smartekh
+`Dec 2022 – Apr 2023` · Mexico City, Mexico
+
+Automation of security operations and evidence collection.
+
+- Developed **Python** scripts and microservices for asset inventory, configuration verification, and automated evidence collection.
+- Integrated AWS and security-platform APIs to correlate findings and auto-generate remediation tickets.
+- Documented and packaged internal tooling for reuse with clear written guides.
+
+<img src="https://img.shields.io/badge/Python-4338CA?style=flat-square" /> <img src="https://img.shields.io/badge/AWS%20APIs-4338CA?style=flat-square" /> <img src="https://img.shields.io/badge/Automation-4338CA?style=flat-square" />
+
+### Back-end Developer · Grupo Salinas (Banco Azteca)
+`Jan 2022 – Dec 2022` · Mexico City, Mexico
+
+PCI-aligned payment microservices for a core banking platform.
+
+- Built **payment-gateway microservices** (authorization, capture, reconciliation) with FastAPI following 12-factor principles, idempotency, and eventual consistency.
+- Designed contract-first **REST APIs (OpenAPI)** and event flows integrating the banking core with anti-fraud, notification, and reconciliation services.
+- Ensured correctness with unit, integration, and contract testing plus **blue/green and canary** rollouts.
+- Implemented resilience patterns (retries with backoff, circuit breakers, timeouts) aligned with **PCI DSS**.
+
+<img src="https://img.shields.io/badge/FastAPI-6D28D9?style=flat-square" /> <img src="https://img.shields.io/badge/PCI%20DSS-6D28D9?style=flat-square" /> <img src="https://img.shields.io/badge/Payments-6D28D9?style=flat-square" /> <img src="https://img.shields.io/badge/OpenAPI-6D28D9?style=flat-square" />
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+| :--- | :--- |
+| **English Proficiency — C1** | TOEFL iBT score **95**, certified by ETS |
+| **Cisco Networking** | CCNAv7: Introduction to Networks |
+| **Postgraduate Specialization** | Engineering & Project Management, Universidad Panamericana (in progress) |
+| **4+ Years Engineering** | Backend, cloud, and DevSecOps across banking and enterprise systems |
+| **Independent Consultancy** | Founder of Eviniegra Software — custom development & Odoo implementations |
+
+</div>
+
+---
+
+## Certifications
+
+<div align="center">
+
+**Cisco**
+
+<img src="https://img.shields.io/badge/CCNAv7%3A%20Introduction%20to%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+**ETS**
+
+<img src="https://img.shields.io/badge/TOEFL%20iBT%20%E2%80%94%2095%20(C1)-6D28D9?style=for-the-badge&logo=ets&logoColor=white" />
+
+**Application Security**
+
+<img src="https://img.shields.io/badge/Secure%20Coding%20%E2%80%94%20Python%20Backend%20Security-4F46E5?style=for-the-badge&logo=python&logoColor=white" />
+
+**Process Modeling**
+
+<img src="https://img.shields.io/badge/BPMN%202.0%20Process%20Modeling-7C3AED?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/EstebanVini">
+  <img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/EstebanVini">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/EstebanVini">
+  <img src="https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/EstebanVini">
+  <img src="https://img.shields.io/badge/CodeChef-4338CA?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstebanVini&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EstebanVini&hide_border=true&background=0D1117&stroke=6D28D9&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanVini&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EstebanVini&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EstebanVini&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=A78BFA&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/EstebanVini/EstebanVini/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+name: Esteban Viniegra
+role: Senior Full Stack Software Engineer
+
+learning:
+  - Distributed systems & backend performance at scale
+  - Applied AI/ML and LLM-powered application patterns
+
+building:
+  - Vehicle MX API & Odoo dealership ecosystem
+  - Real-time and ERP products under Eviniegra Software
+
+exploring:
+  - Kubernetes platform engineering & DevSecOps automation
+  - High-quality AI training-data workflows
+
+open_to:
+  - Remote Senior / Staff Backend & Full-Stack roles
+  - AI/ML engineering & training-data contracts
+  - Cloud, platform, and Odoo consulting
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:esteban@eviniegra.software">
+  <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/estebanviniegra-21126b257">
+  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/EstebanVini">
+  <img src="https://img.shields.io/badge/GitHub-4338CA?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://eviniegra.software">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<i>"Correctness, tested and documented, is the only feature that ships twice."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=6,11,20" width="100%"/>
+
+</div>
