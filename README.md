@@ -190,7 +190,7 @@ Design-system-driven front end with motion-led UX, delivered against a real clie
 <a href="https://github.com/EstebanVini">
   <img src="https://img.shields.io/badge/GitHub-4338CA?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://eviniegra.software">
+<a href="https://eviniegra.qzz.io">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
